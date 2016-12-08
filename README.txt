@@ -1,11 +1,3 @@
-# Predict New User Bookings on Airbnb
-Where will a new guest book their first travel experience? Let's find out using D-D-DATA MINING!
-
-This group consists of 3 awesome students from the University of San Francisco:
-Anaelia Ovalle, Michael Liston, and Brent Rucker
-
-Link to the competition: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
-
 This project was done using jupyter notebooks and is organized in the following ways:
 
 - Our team was interested in comparing different method of imputation and balancing classes, therefore we have several notebooks that run different ways of doing such. This includes:
