@@ -19,4 +19,6 @@ This project was done using jupyter notebooks and is organized in the following 
 
 - Sample tree visualization file : tree.png
 
+Link to report : https://docs.google.com/document/d/1eCXSJWf4Q2_is5-gDysNFveiDgHGc23mMsPw2iAybWU/edit?usp=sharing
+
 **It is suggested to observe airbnb_noNDF_noageNA_upsample as this contains all relevant output
